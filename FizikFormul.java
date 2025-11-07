@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: [ِAlaa Madi]
  * Ogrenci No: [240541609]
- * Tarih: [16-11-2025]
+ * Tarih: [07-11-2025]
  * Aciklama: Gorev 2 - Fizik Formulu Asistani
  *
  * Bu program temel fizik formullerini kullanarak
